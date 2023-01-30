@@ -8,6 +8,28 @@ https://blog.csdn.net/yas12345678/article/details/52601454
 ### priority_queue
 https://blog.csdn.net/weixin_36888577/article/details/79937886
 
+### 字符切割
+
+1. split
+
+#include<sstream>
+string mytext("some-text-to");
+istringstream iss(mytext);
+string token;
+while(getline(iss, token, '-')){
+   cout<<token<<endl;
+}
+//对输入缺省换行
+string token;
+while(getline(cin, token)){
+   cout<<token<<endl;
+}
+//同一个iss先清空再str
+istringstream iss(str1);
+iss.clear();
+iss.str(str2);
+
+
 
 ## Python Grammer
 
