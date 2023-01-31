@@ -19,15 +19,15 @@ string token;
 while(getline(iss, token, '-')){  
    cout<<token<<endl;  
 }  
-//对输入缺省换行
-string token;
-while(getline(cin, token)){
-   cout<<token<<endl;
-}
-//同一个iss先清空再str
-istringstream iss(str1);
-iss.clear();
-iss.str(str2);
+//对输入缺省换行  
+string token;  
+while(getline(cin, token)){  
+   cout<<token<<endl;  
+}  
+//同一个iss先清空再str  
+istringstream iss(str1);  
+iss.clear();  
+iss.str(str2);  
 
 
 
