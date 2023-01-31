@@ -12,13 +12,13 @@ https://blog.csdn.net/weixin_36888577/article/details/79937886
 
 1. split
 
-#include<sstream>
-string mytext("some-text-to");
-istringstream iss(mytext);
-string token;
-while(getline(iss, token, '-')){
-   cout<<token<<endl;
-}
+#include<sstream>  
+string mytext("some-text-to");  
+istringstream iss(mytext);  
+string token;  
+while(getline(iss, token, '-')){  
+   cout<<token<<endl;  
+}  
 //对输入缺省换行
 string token;
 while(getline(cin, token)){
