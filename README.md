@@ -48,6 +48,12 @@ https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribut
 
 https://www.cnblogs.com/grandyang/p/6854825.html
 
+### / 和 // 区别
+
+/ 表示浮点数除法，返回浮点结果;
+
+// 表示整数除法，返回不大于结果的一个最大的整数
+
 
 
 #### 关于求中点可能的越界问题：
