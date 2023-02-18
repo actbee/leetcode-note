@@ -40,7 +40,8 @@ https://www.runoob.com/python/python-lists.html
 https://developer.aliyun.com/article/373361
 
 ### heapq（优先队列）
-https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-123899066-blog-79042839.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=2
+https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-123899066-blog-79042839.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=2  
+   
 堆
 时间复杂度：
 插入/删除元素/初始化 O(n)
