@@ -54,6 +54,9 @@ https://www.cnblogs.com/grandyang/p/6854825.html
 
 // 表示整数除法，返回不大于结果的一个最大的整数
 
+### counter
+https://www.jianshu.com/p/615bcc4a0124
+
 
 
 #### 关于求中点可能的越界问题：
