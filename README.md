@@ -50,11 +50,20 @@ https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribut
 ### counter
 https://www.jianshu.com/p/615bcc4a0124
 
-   
-   
-   
-   
-   
+### join方法
+eg:
+  symbol = "-";
+  seq = ("a", "b", "c"); # 字符串序列
+  print symbol.join( seq );
+  
+### reverse方法
+
+reversed(seq)
+参数
+seq -- 要转换的序列，可以是 tuple, string, list 或 range。
+返回值
+返回一个反转的迭代器。
+https://blog.csdn.net/gymaisyl/article/details/83785853
    
 ## Algorithms
 
