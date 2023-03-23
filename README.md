@@ -45,6 +45,13 @@ https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribut
 ### dictionary 
 https://www.runoob.com/python/python-dictionary.html
    
+   dic = {a:1, b:2, c:3}
+   if(a in dic)
+   if(d not in dic)
+   dic.keys() // get [a, b, c]
+   del dic[a]
+   del dic
+   
 堆
 时间复杂度：
 插入/删除元素/初始化 O(n)
