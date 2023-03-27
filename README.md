@@ -84,6 +84,10 @@ https://www.runoob.com/python/python-dictionary.html
 
 ### counter
 https://www.jianshu.com/p/615bcc4a0124
+   
+
+### string
+   https://www.runoob.com/python3/python3-string-split.html  
 
 ### join方法
 eg:
