@@ -58,6 +58,11 @@ reverse -- 排序规则，reverse = True 降序， reverse = False 升序（默�
 https://www.runoob.com/python/att-list-sort.html  
 
 sorted(iterable, cmp=None, key=None, reverse=False)  
+eg:  
+li = [[1,2],[2,1]].  
+ans1 = sorted(li, lambda x: x[1]). //ans1=[[2,1],[1,2]]
+ans2 = sorted(x[1] for x in li).   // ans2 = [1, 2].  
+
 
 https://www.runoob.com/python/python-func-sorted.html  
 
