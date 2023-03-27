@@ -95,6 +95,11 @@ eg:
   seq = ("a", "b", "c"); # 字符串序列
   print symbol.join( seq );
   
+### zip方法
+   https://blog.csdn.net/PaulZhn/article/details/104391756
+   
+   
+   
 ### reverse方法
 
 reversed(seq)
