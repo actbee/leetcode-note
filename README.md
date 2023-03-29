@@ -48,6 +48,11 @@ https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribut
 ### string to int
    int(s)
 
+### 输入处理
+https://blog.csdn.net/ByYastal/article/details/115721422?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-115721422-blog-107367224.235%5Ev27%5Epc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-115721422-blog-107367224.235%5Ev27%5Epc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=3
+
+https://blog.csdn.net/watermelon12138/article/details/107367224
+
 ### order
 
 list.sort(cmp=None, key=None, reverse=False)
