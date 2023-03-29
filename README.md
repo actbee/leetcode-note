@@ -52,6 +52,13 @@ https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribut
 https://blog.csdn.net/ByYastal/article/details/115721422?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-115721422-blog-107367224.235%5Ev27%5Epc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-115721422-blog-107367224.235%5Ev27%5Epc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=3
 
 https://blog.csdn.net/watermelon12138/article/details/107367224
+   
+### 进制转化
+   https://www.runoob.com/python3/python3-conversion-binary-octal-hexadecimal.html  
+   print("转换为二进制为：", bin(dec))
+   print("转换为八进制为：", oct(dec))
+   print("转换为十六进制为：", hex(dec))  
+   
 
 ### order
 
