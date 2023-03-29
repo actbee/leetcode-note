@@ -102,8 +102,8 @@ https://www.runoob.com/python/python-dictionary.html
 插入/删除元素/初始化 O(n)
 排序 O(nlogn)
 
-### counter
-https://www.jianshu.com/p/615bcc4a0124
+### [:a] 和 [::a]
+   https://www.runoob.com/note/51257  
    
 
 ### string
