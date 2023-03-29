@@ -149,4 +149,6 @@ pivot = left + (right - left) / 2;
 and here is a bit more complicated but probably faster way using the bit shift operator.
 pivot = ((unsigned int)left + (unsigned int)right)) >> 1;
 
-
+### 异或
+   若a^b=c 则a=b^c,也可以得到b=a^c。  
+   
