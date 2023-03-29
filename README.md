@@ -62,7 +62,11 @@ https://blog.csdn.net/watermelon12138/article/details/107367224
    print("转换为八进制为：", oct(dec))
    print("转换为十六进制为：", hex(dec))  
    位运算：异或  
-   a ^ b
+   a ^ b  
+
+### any, all
+   https://zhuanlan.zhihu.com/p/128554209  
+   eg: any (f(a) in listm for a in b)
 
 ### order
 
