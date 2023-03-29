@@ -53,12 +53,15 @@ https://blog.csdn.net/ByYastal/article/details/115721422?spm=1001.2101.3001.6650
 
 https://blog.csdn.net/watermelon12138/article/details/107367224
    
-### 进制转化
+### 位相关  
+   
+   进制转化  
    https://www.runoob.com/python3/python3-conversion-binary-octal-hexadecimal.html  
    print("转换为二进制为：", bin(dec))
    print("转换为八进制为：", oct(dec))
    print("转换为十六进制为：", hex(dec))  
-   
+   位运算：异或  
+   a ^ b
 
 ### order
 
@@ -82,7 +85,7 @@ https://www.runoob.com/python/python-func-sorted.html
 ### counter
 
 https://www.jianshu.com/p/615bcc4a0124
-
+   
 ### dictionary 
 https://www.runoob.com/python/python-dictionary.html
    
