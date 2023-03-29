@@ -133,6 +133,10 @@ seq -- 要转换的序列，可以是 tuple, string, list 或 range。
 返回一个反转的迭代器。
 https://blog.csdn.net/gymaisyl/article/details/83785853
    
+### for
+   for i in range(10)[::-1]:  // equals to  for i in range(9, -1, -1)
+   
+   
 ## Algorithms
 
 ### Binary Search:
