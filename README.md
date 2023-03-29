@@ -79,6 +79,10 @@ ans2 = sorted(x[1] for x in li).   // ans2 = [1, 2].
 https://www.runoob.com/python/python-func-sorted.html  
 
 
+### counter
+
+https://www.jianshu.com/p/615bcc4a0124
+
 ### dictionary 
 https://www.runoob.com/python/python-dictionary.html
    
