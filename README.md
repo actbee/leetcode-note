@@ -65,7 +65,10 @@ https://blog.csdn.net/watermelon12138/article/details/107367224
    a ^ b  
    
    https://blog.csdn.net/qq_33210042/article/details/117790113
-   bin后结果以0b开头，为了去掉开头的0b，一般： bin(num)[2:]
+   bin后结果以0b开头，为了去掉开头的0b，一般： bin(num)[2:]  
+   
+   数x的最高位补0:
+   [(x >> i) & 1 for i in range(L)][::-1]
 
 ### any, all
    https://zhuanlan.zhihu.com/p/128554209  
