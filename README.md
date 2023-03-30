@@ -43,6 +43,12 @@ https://developer.aliyun.com/article/373361
 https://blog.csdn.net/qq_38048756/article/details/123899066?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-123899066-blog-79042839.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=2  
    找最大/最小值： O(logn)  
 
+### deque/stack queue
+   https://zhuanlan.zhihu.com/p/592519446  
+   优先用deque实现queue。(O(1))   
+   stack可以直接用list实现。
+   
+   
 ### int to string
    str(i)
 
