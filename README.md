@@ -153,6 +153,11 @@ https://blog.csdn.net/gymaisyl/article/details/83785853
    https://www.runoob.com/python/func-number-ceil.html
 
 ## Algorithms
+   
+### 链表
+   找中点： https://leetcode.com/problems/middle-of-the-linked-list/editorial/  
+   反转： https://leetcode.com/problems/reverse-linked-list/  
+   合并： https://leetcode.com/problems/merge-two-sorted-lists/   
 
 ### Binary Search:
 
