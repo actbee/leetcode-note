@@ -148,7 +148,7 @@ https://blog.csdn.net/gymaisyl/article/details/83785853
 ### for
    for i in range(10)[::-1]:  // equals to  for i in range(9, -1, -1)
    
-### ceil()
+### math.ceil()
    返回数字的向上取整结果。 
    https://www.runoob.com/python/func-number-ceil.html
 
